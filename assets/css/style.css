@@ -40,10 +40,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .meeting {
     height: 800px;
     width: 100%;
@@ -62,7 +58,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.mainContent {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
